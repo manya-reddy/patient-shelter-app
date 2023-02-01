@@ -78,11 +78,11 @@ Person
    
    
    
- UML - Class diagram-![aedflow drawio](https://user-images.githubusercontent.com/113812925/216176926-eb4eabb3-c129-4670-a22a-22b9b0889414.png)
+ UML - Class diagram and flowchart -![aedflow drawio](https://user-images.githubusercontent.com/113812925/216176926-eb4eabb3-c129-4670-a22a-22b9b0889414.png)
 ![aedtables drawio](https://user-images.githubusercontent.com/113812925/216176939-9a89134d-eb23-49a9-a05c-70cbcc406614.png)
 
  
-Flow Chart-
+
  
 Project By
 Manimanya, Nishigandha,Urmi
